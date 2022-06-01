@@ -1,1 +1,1 @@
-# namespace_operator_example
+# namespace-operator-example
